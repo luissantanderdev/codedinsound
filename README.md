@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <br><br>
 **Testing/Deployment**<br>
-<img src="https://img.shields.io/badge/-NodeJS-green">
+<img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=appveyor">
 
 
 <br><br>
