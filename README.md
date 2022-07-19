@@ -6,6 +6,8 @@
 **Programming Languages**<br>
 <img src="https://img.shields.io/badge/-Java-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Swift-orange?style=for-the-badge">
 <br><br>
 **Back End Technologies**<br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
