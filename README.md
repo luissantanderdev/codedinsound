@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <br><br>
 **Testing/Deployment**<br>
+<img src="https://img.shields.io/badge/-Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white">
 
 
 <br><br>
