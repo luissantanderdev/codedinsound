@@ -1,3 +1,4 @@
+![github banner](controlRoomPic.jpeg)
 ### Hi there 👋
 
 <!--
