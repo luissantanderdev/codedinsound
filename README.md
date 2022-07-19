@@ -1,5 +1,5 @@
 ![github banner](controlRoomPic.jpeg)
-### Hi there 👋
+### Hey there, My name is Luis Santander welcome to my GitHub portfolio. Little bit about my self, I am software developer and a music producer on the side. Have a profound interests in backend development and iOS development. Please reach out to me if you are interested in getting to know me. 👋
 
 
 ## Technical Skills
