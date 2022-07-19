@@ -24,4 +24,5 @@
 <br><br>
 **Developer Tools**<br>
 <img src="https://img.shields.io/badge/-XCODE-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-visual%20studio%20code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <br><br>
