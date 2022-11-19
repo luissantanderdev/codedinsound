@@ -5,7 +5,7 @@
 ## Technical Skills
 **Programming Languages**<br>
 <img src="https://img.shields.io/badge/-Java-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/-TYPESCRIPT-blue">
+<img src="https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Swift-orange?style=for-the-badge">
